@@ -1,2 +1,2 @@
 # DEMO
-Acesta este o recpaitulare pt github
+Acesta este o recpaitulare pt github?
