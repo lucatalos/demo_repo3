@@ -1,8 +1,8 @@
 # DEMO
 Acesta este o recpaitulare pt github?
 
-##subheader 
+## subheader 
 more texttt
 
-##Local development
+## Local development
 1. open index.html in your browser
